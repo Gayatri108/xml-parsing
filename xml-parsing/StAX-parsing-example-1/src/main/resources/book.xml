@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book bookId="b01">
+<bookName>Core java</bookName>
+<bookAuthor>Nageswar Rao</bookAuthor>
+<bookPrice>563</bookPrice>
+</book>
+<book bookId="b02">
+<bookName>Reasoning</bookName>
+<bookAuthor>BS Sijwali</bookAuthor>
+<bookPrice>750</bookPrice>
+</book>
+<book bookId="b03">
+<bookName>C++</bookName>
+<bookAuthor>E Balguru Samy</bookAuthor>
+<bookPrice>300</bookPrice>
+</book>
+</books>

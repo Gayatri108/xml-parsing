@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student id="101">
+		<firstName>Sanjeev</firstName>
+		<lastName>Mishra</lastName>
+		<courseName>java</courseName>
+	</student>
+	<student id="102">
+		<firstName>Madhu</firstName>
+		<lastName>Dash</lastName>
+		<courseName>.Net</courseName>
+	</student>
+	<student id="103">
+		<firstName>Rahul</firstName>
+		<lastName>Sharma</lastName>
+		<courseName>AngularJs</courseName>
+	</student>
+
+
+</students>

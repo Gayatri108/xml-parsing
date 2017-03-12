@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<department deptId="101">
+		<deptName>Finance</deptName>
+		<deptLoc>USA</deptLoc>
+	</department>
+	<department deptId="102">
+		<deptName>IT</deptName>
+		<deptLoc>UK</deptLoc>
+	</department>
+	<department deptId="103">
+		<deptName>Production</deptName>
+		<deptLoc>France</deptLoc>
+	</department>
+</company>
